@@ -1,4 +1,5 @@
-![test](https://github.com/t-oono-webdev/ec-site/workflows/test/badge.svg)
+[![test](https://github.com/t-oono-webdev/ec-site/workflows/test/badge.svg)](https://github.com/t-oono-webdev/ec-site/actions?query=workflow%3Atest)
+[![codecov](https://codecov.io/gh/t-oono-webdev/ec-site/branch/master/graph/badge.svg)](https://codecov.io/gh/t-oono-webdev/ec-site)
 
 # ec-site
 
