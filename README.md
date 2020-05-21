@@ -1,3 +1,5 @@
+![test](https://github.com/t-oono-webdev/ec-site/workflows/test/badge.svg)
+
 # ec-site
 
 > EC Site by t-oono
